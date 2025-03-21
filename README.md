@@ -6,6 +6,11 @@ A version of the [Work Sans](https://github.com/weiweihuanghuang/Work-Sans) font
 
 - **Traditional Kerning**: Kerning information is stored in the `kern` table rather than the `GPOS` table, ensuring better compatibility with various applications.
 
+## Screenshot
+
+- Work Sans vs Work Sans Kern on Microsoft PowerPoint
+  ![image](https://github.com/user-attachments/assets/cd32dc63-c862-4e9b-9d79-2361fab7ddef)
+
 ## Generation
 
 The `.ttf` files were regenerated from Work Sans using [FontForge](https://fontforge.org/) with the following options enabled:

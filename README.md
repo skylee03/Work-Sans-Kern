@@ -9,7 +9,7 @@ A version of the [Work Sans](https://github.com/weiweihuanghuang/Work-Sans) font
 ## Screenshot
 
 - Work Sans vs Workern Sans on Microsoft PowerPoint
-  ![image](https://github.com/user-attachments/assets/cd32dc63-c862-4e9b-9d79-2361fab7ddef)
+  ![image](https://github.com/user-attachments/assets/fade52da-1f12-432f-81c8-1a3a4c853402)
 
 ## Generation
 
